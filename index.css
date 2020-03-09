@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    color: #111111;
+    background: rgb(210, 188, 151); /* Old */
+    background: -moz-linear-gradient(-45deg,  rgba(210, 188, 151, 1) 0%, rgba(81, 58, 40, 1) 100%); /* Mozarella */
+    background: -webkit-linear-gradient(-45deg,  rgba(210, 188, 151, 1) 0%,rgba(81, 58, 40, 1) 100%); /* Chroma */
+    background: linear-gradient(135deg,  rgba(210, 188, 151, 1) 0%,rgba(81, 58, 40, 1) 100%); /* NEW */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2bc97', endColorstr='#513a28',GradientType=1 ); /* Interneto Exploro */
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 22.5px;
+    padding-left: 0.75%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.decouvrir {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.chef {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.tireur {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.pilote {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.chargeur {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.mitrailleur {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+.victoire {
+    padding-left: 0.78%;
+    padding-right: 0.78%;
+}
+.disponibilite {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
